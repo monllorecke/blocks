@@ -1,11 +1,11 @@
-module github.com/mbertschler/blocks/components
+module github.com/monllorecke/blocks
 
 go 1.20
 
 require (
 	github.com/evanw/esbuild v0.17.16
 	github.com/gin-gonic/gin v1.9.0
-	github.com/mbertschler/blocks v1.0.0
+	github.com/monllorecke/blocks v0.0.0-20240529161318-3bb7b6f187e0
 )
 
 require (
